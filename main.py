@@ -1,5 +1,5 @@
 #WRITE YOUR CODE HERE
-def addcheck(x, y, z):
+def addCheck(x, y, z):
     if x + y == z:
         return "true"
 
